@@ -1,0 +1,6 @@
+[submodule "Algorithm/LeetCode"]
+	path = Algorithm/LeetCode
+	url = https://github.com/song1900/LeetCode.git
+[submodule "Algorithm/Baekjoon"]
+	path = Algorithm/Baekjoon
+	url = https://github.com/song1900/Baekjoon.git
