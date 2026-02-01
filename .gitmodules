@@ -4,3 +4,4 @@
 [submodule "Algorithm/Baekjoon"]
 	path = Algorithm/Baekjoon
 	url = https://github.com/song1900/Baekjoon.git
+	branch = main
